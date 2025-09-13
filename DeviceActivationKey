@@ -2,13 +2,19 @@
     {
         "device_id": "4d6479e9e97b91a5",
         "key": "666220",
-        "expirydate": "1-1-2030",
+        "expirydate": "31-12-2030",
         "Allowoffline": true
     },
     {
-        "device_id": "4d6479e9e97b91a5",
-        "key": "666220",
+        "device_id": "device456",
+        "key": "key67890",
         "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }, 
+    {
+        "device_id": "4d6479e9e97b91a5",
+        "key": "lipon66",
+        "expirydate": "01-01-2026",
         "Allowoffline": false
     }
 ]
